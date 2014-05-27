@@ -1,0 +1,59 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok:FJH
+
+Judul Topik: Sejarah Windows
+
+Alamat Github:
+
+Alamat Trello: https://trello.com/b/OE8YY7lM/bespoke
+
+Anggota 1:
+	Nama: Fransisca
+	NIM: 12.111.2333
+Anggota 2:
+	Nama: Yosep Segono
+	NIM: 12.111.1397
+Anggota 3:
+	Nama: Hans Liu Winarta
+	NIM: 12.111.0570
+
+=======================
+
+
+SPRINT
+------ 
+Sprint 1: 
+26/5 - 29/5
+Scrummaster: Hans liu winarta (12.111.0570)
+
+Sprint 2:
+30/5 - 2/6
+Scrummaster: Yosep Segono (12.111.1397)
+
+Sprint 3: 
+3/6 - 7/6
+Scrummaster: Fransisca (12.111.2333)
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+26/5 
+Daily Scrum
+(Nama Anggota 1):
+1. Semalam saya tidak mengerjakan apa"
+2. Hari ini saya mulai belajar
+3. Saya ada kendala di pembelajaran yang belum paham
+
+(Nama Anggota 2):
+1.
+2.
+3.
+
+(Nama Anggota 3):
+1.
+2.
+3.
+
+...
