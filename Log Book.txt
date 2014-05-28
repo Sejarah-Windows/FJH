@@ -5,7 +5,7 @@ Nama kelompok:FJH
 
 Judul Topik: Sejarah Windows
 
-Alamat Github:
+Alamat Github:https://github.com/Sejarah-Windows/FJH
 
 Alamat Trello: https://trello.com/b/OE8YY7lM/bespoke
 
@@ -18,6 +18,9 @@ Anggota 2:
 Anggota 3:
 	Nama: Hans Liu Winarta
 	NIM: 12.111.0570
+Anggota 4:
+	Nama: Irwan Taniwan
+	NIM: 12.111.0375
 
 =======================
 
@@ -36,24 +39,74 @@ Sprint 3:
 3/6 - 7/6
 Scrummaster: Fransisca (12.111.2333)
 
+Sprint 4:
+8/6 - 12/6
+Srummaster: Irwan Taniwan (12.111.0375)
+
 Progress Harian (Diupdate tiap hari)
 ------------------------------------
-
 26/5 
 Daily Scrum
-(Nama Anggota 1):
+Hans liu wianarta:
+1.
+2. 
+3. 
+
+Fransisca:
+1.
+2.
+3.
+
+Yosep Segono:
+1.
+2.
+3.
+
+Irwan Taniwan:
+1.
+2.
+3.
+
+27/5 
+Daily Scrum
+Hans liu winarta:
 1. Semalam saya tidak mengerjakan apa"
 2. Hari ini saya mulai belajar
 3. Saya ada kendala di pembelajaran yang belum paham
 
-(Nama Anggota 2):
+Fransisca:
 1.
 2.
 3.
 
-(Nama Anggota 3):
+Yosep Segono:
 1.
 2.
 3.
 
-...
+Irwan Taniwan:
+1.
+2.
+3.
+
+28/5 
+Daily Scrum
+Hans liu winarta:
+1. Semalam saya mulai melakukan semua kegiatan mengenai bespoke, install, dan pembagian tugas kepada anggota.
+2. Hari ini saya mempelajari mengenai Jade & Trilus, dan ad penambahan anggota baru.
+3. Saya ada kendala di bagian design.
+
+Fransisca:
+1.
+2.
+3.
+
+Yosep Segono:
+1.
+2.
+3.
+
+Irwan taniwan
+1.
+2.
+3.
