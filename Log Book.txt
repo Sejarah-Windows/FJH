@@ -94,7 +94,7 @@ Daily Scrum
 Hans liu winarta:
 1. Semalam saya mulai melakukan semua kegiatan mengenai bespoke, install, dan pembagian tugas kepada anggota.
 2. Hari ini saya mempelajari mengenai Jade & Trilus, dan ad penambahan anggota baru.
-3. Saya ada kendala di bagian design.
+3. Saya ada kendala di bagian design..
 
 Fransisca:
 1.
