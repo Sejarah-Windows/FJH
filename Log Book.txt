@@ -115,7 +115,7 @@ Irwan taniwan
 Daily Scrum
 Hans liu winarta:
 1. Semalam saya mempelajari mengenai jade & Triuls, dan penambahan anggota
-2. Hari ini saya mengutak atik index.jade
+2. Hari ini saya mengutak atik index.jade.
 3. Saya ada kendala banyak sekali.
 
 Fransisca:
