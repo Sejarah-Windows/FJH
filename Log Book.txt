@@ -131,4 +131,41 @@ Yosep Segono:
 Saya mempunyai banyak masalah dalam pemahaman mengenai pull dan push. Irwan taniwan
 1.Semalam saya menginstall semua aplikasi yang diperlukan untuk Be Spoke.
 2.Hari ini saya sedang berdiskusi berkelompok dengan Hans.
-3.Hari ini saya memiliki banyak kendala.
+3.Hari ini saya memiliki banyak kendala. Daily Scrum
+Hans liu winarta:
+1. Semalam saya mulai melakukan semua kegiatan mengenai bespoke, install, dan pembagian tugas kepada anggota.
+2. Hari ini saya mempelajari mengenai Jade & Trilus, dan ad penambahan anggota baru.
+3. Saya ada kendala di bagian design..
+
+Fransisca:
+1.
+2.
+3.
+
+Yosep Segono:
+1.
+2.
+3.
+
+Irwan taniwan
+1.
+2.
+3.
+
+30/5 
+Daily Scrum
+Yosep Segono:
+1. Semalam saya menginstall semua aplikasi yang di perlukan untuk pembuatan project
+2. Hari ini saya membagi tugas kepada anggota.
+3. Saya masih belum paham mengenai bespoke.
+
+Fransisca:
+1.
+2.
+3.
+
+Hans:
+1.2.3.
+
+ Irwan taniwan
+1.2.3.
