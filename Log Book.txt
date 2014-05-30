@@ -154,33 +154,10 @@ Fransisca:
 3.
 
 Yosep Segono:
-1.
-2.
-3.
 
-Irwan taniwan
-1.
-2.
-<<<<<<< HEAD
-3.
-
-30/5 
-Daily Scrum
-Yosep Segono:
 1. Semalam saya menginstall semua aplikasi yang di perlukan untuk pembuatan project
 2. Hari ini saya membagi tugas kepada anggota.
-3. Saya masih belum paham mengenai bespoke.
-
-Fransisca:
+3. Saya masih belum paham mengenai bespoke.Irwan Taniwan:
 1.
 2.
 3.
-
-Hans:
-1.2.3.
-
- Irwan taniwan
-1.2.3.
-=======
-3.
->>>>>>> f197c2bc6dbc086f1c1af50344d674b4f3a98a6f
