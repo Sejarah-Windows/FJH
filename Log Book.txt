@@ -126,13 +126,14 @@ Fransisca:
 Yosep Segono:
 1.Semalam saya mulai menginstall semua aplikasi yang di perlukan untuk pengerjaan project. 
 2.Hari ini saya mulai belajar mengenai bahan project. 
-3.
+3.Saya mempunyai banyak masalah dalam pemahaman mengenai pull dan push. 
 
-Saya mempunyai banyak masalah dalam pemahaman mengenai pull dan push. Irwan taniwan
+Irwan taniwan
 1.Semalam saya menginstall semua aplikasi yang diperlukan untuk Be Spoke.
 2.Hari ini saya sedang berdiskusi berkelompok dengan Hans.
 <<<<<<< HEAD
 3.Hari ini saya memiliki banyak kendala. Daily Scrum
+
 Hans liu winarta:
 1. Semalam saya mulai melakukan semua kegiatan mengenai bespoke, install, dan pembagian tugas kepada anggota.
 2. Hari ini saya mempelajari mengenai Jade & Trilus, dan ad penambahan anggota baru.
@@ -157,7 +158,9 @@ Yosep Segono:
 
 1. Semalam saya menginstall semua aplikasi yang di perlukan untuk pembuatan project
 2. Hari ini saya membagi tugas kepada anggota.
-3. Saya masih belum paham mengenai bespoke.Irwan Taniwan:
-1.
-2.
-3.
+3. Saya masih belum paham mengenai bespoke.
+
+Irwan Taniwan:
+1. Semalam saya belajar tentang Bespoke.
+2. Hari ini saya mengutak atik Bespoke.
+3. Saya masih belum paham sama grunt server.
