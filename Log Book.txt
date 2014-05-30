@@ -22,7 +22,7 @@ Anggota 4:
 	Nama: Irwan Taniwan
 	NIM: 12.111.0375
 
-=======================
+======================
 
 
 SPRINT
@@ -32,15 +32,15 @@ Sprint 1:
 Scrummaster: Hans liu winarta (12.111.0570)
 
 Sprint 2:
-30/5 - 2/6
+30/5 - 1/6
 Scrummaster: Yosep Segono (12.111.1397)
 
 Sprint 3: 
-3/6 - 7/6
+2/6 - 4/6
 Scrummaster: Fransisca (12.111.2333)
 
 Sprint 4:
-8/6 - 12/6
+5/6 - 7/6
 Srummaster: Irwan Taniwan (12.111.0375)
 
 Progress Harian (Diupdate tiap hari)
@@ -131,11 +131,22 @@ Yosep Segono:
 Saya mempunyai banyak masalah dalam pemahaman mengenai pull dan push. Irwan taniwan
 1.Semalam saya menginstall semua aplikasi yang diperlukan untuk Be Spoke.
 2.Hari ini saya sedang berdiskusi berkelompok dengan Hans.
+<<<<<<< HEAD
 3.Hari ini saya memiliki banyak kendala. Daily Scrum
 Hans liu winarta:
 1. Semalam saya mulai melakukan semua kegiatan mengenai bespoke, install, dan pembagian tugas kepada anggota.
 2. Hari ini saya mempelajari mengenai Jade & Trilus, dan ad penambahan anggota baru.
 3. Saya ada kendala di bagian design..
+=======
+3.Hari ini saya memiliki banyak kendala.
+
+30/5 
+Daily Scrum
+Hans liu winarta:
+1. Semalam saya mengutak atik index.jade
+2. Hari ini saya mencari versi" windows sebelumnya
+3. Saya ada kendala di grunt server - hasilnya cannot get /
+>>>>>>> f197c2bc6dbc086f1c1af50344d674b4f3a98a6f
 
 Fransisca:
 1.
@@ -150,6 +161,7 @@ Yosep Segono:
 Irwan taniwan
 1.
 2.
+<<<<<<< HEAD
 3.
 
 30/5 
@@ -169,3 +181,6 @@ Hans:
 
  Irwan taniwan
 1.2.3.
+=======
+3.
+>>>>>>> f197c2bc6dbc086f1c1af50344d674b4f3a98a6f
