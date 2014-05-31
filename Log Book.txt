@@ -134,15 +134,8 @@ Yosep Segono:
 Irwan taniwan
 1.Semalam saya menginstall semua aplikasi yang diperlukan untuk Be Spoke.
 2.Hari ini saya sedang berdiskusi berkelompok dengan Hans.
-<<<<<<< HEAD
 3.Hari ini saya memiliki banyak kendala. Daily Scrum
 
-Hans liu winarta:
-1. Semalam saya mulai melakukan semua kegiatan mengenai bespoke, install, dan pembagian tugas kepada anggota.
-2. Hari ini saya mempelajari mengenai Jade & Trilus, dan ad penambahan anggota baru.
-3. Saya ada kendala di bagian design..
-=======
-3.Hari ini saya memiliki banyak kendala.
 
 
 30/5 
@@ -151,7 +144,6 @@ Hans liu winarta:
 1. Semalam saya mengutak atik index.jade
 2. Hari ini saya mencari versi" windows sebelumnya
 3. Saya ada kendala di grunt server - hasilnya cannot get /
->>>>>>> f197c2bc6dbc086f1c1af50344d674b4f3a98a6f
 
 Fransisca:
 1.
@@ -159,7 +151,6 @@ Fransisca:
 3.
 
 Yosep Segono:
-
 1. Semalam saya menginstall semua aplikasi yang di perlukan untuk pembuatan project
 2. Hari ini saya membagi tugas kepada anggota.
 3. Saya masih belum paham mengenai bespoke.
@@ -168,11 +159,13 @@ Irwan Taniwan:
 1. Semalam saya belajar tentang Bespoke.
 2. Hari ini saya mengutak atik Bespoke.
 3. Saya masih belum paham sama grunt server.
+
+
 31/5 
 Daily Scrum
 Yosep Segono:
 1.Semalam saya membagi tugas kepada anggota
-.2.Hari ini saya mulai mengutak-atik bespoke 
+2.Hari ini saya mulai mengutak-atik bespoke 
 3.Saya masih belum begitu paham mengenai bespoke 
 
 Fransisca:
@@ -180,34 +173,12 @@ Fransisca:
 2.
 3.
 
-Hans Liu Winata:
-1.
-2.
-3.
-
-Irwan Taniwan:
-1.
-2.
-3.
-
-31/5 
-Daily Scrum
 Hans liu winarta:
 1. Semalam saya mencari bahan versi windowns 
 2. Hari ini saya mencoba untuk menyuruh sisca untuk attach file yang da di rangkum ke trello.
 3. Saya ada kendala di grunt server - hasilnya cannot get /
 
-Fransisca:
-1.
-2.
-3.
-
-Yosep Segono:
-1.
-2.
-3.
-
-Irwan taniwan
+Irwan Taniwan:
 1.
 2.
 3.
