@@ -164,3 +164,24 @@ Irwan Taniwan:
 1. Semalam saya belajar tentang Bespoke.
 2. Hari ini saya mengutak atik Bespoke.
 3. Saya masih belum paham sama grunt server.
+31/5 
+Daily Scrum
+Yosep Segono:
+1.Semalam saya membagi tugas kepada anggota
+.2.Hari ini saya mulai mengutak-atik bespoke 
+3.Saya masih belum begitu paham mengenai bespoke 
+
+Fransisca:
+1.
+2.
+3.
+
+Hans Liu Winata:
+1.
+2.
+3.
+
+Irwan Taniwan:
+1.
+2.
+3.
