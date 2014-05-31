@@ -174,7 +174,7 @@ Fransisca:
 3.
 
 Hans liu winarta:
-1. Semalam saya mencari bahan versi windowns 
+1. Semalam saya mencari bahan versi windows.
 2. Hari ini saya mencoba untuk menyuruh sisca untuk attach file yang da di rangkum ke trello.
 3. Saya ada kendala di grunt server - hasilnya cannot get /
 
