@@ -166,7 +166,7 @@ Daily Scrum
 Yosep Segono:
 1.Semalam saya membagi tugas kepada anggota
 2.Hari ini saya mulai mengutak-atik bespoke 
-3.Saya masih belum begitu paham mengenai bespoke 
+3.Saya masih belum begitu paham mengenai bespoke.
 
 Fransisca:
 1.
