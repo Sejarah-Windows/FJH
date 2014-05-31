@@ -67,6 +67,7 @@ Irwan Taniwan:
 2.
 3.
 
+
 27/5 
 Daily Scrum
 Hans liu winarta:
@@ -88,6 +89,7 @@ Irwan Taniwan:
 1.
 2.
 3.
+
 
 28/5 
 Daily Scrum
@@ -111,6 +113,7 @@ Irwan taniwan
 2.
 3.
 
+
 29/5 
 Daily Scrum
 Hans liu winarta:
@@ -126,18 +129,41 @@ Fransisca:
 Yosep Segono:
 1.Semalam saya mulai menginstall semua aplikasi yang di perlukan untuk pengerjaan project. 
 2.Hari ini saya mulai belajar mengenai bahan project. 
-3.
+3.Saya mempunyai banyak masalah dalam pemahaman mengenai pull dan push. 
 
-Saya mempunyai banyak masalah dalam pemahaman mengenai pull dan push. Irwan taniwan
+Irwan taniwan
 1.Semalam saya menginstall semua aplikasi yang diperlukan untuk Be Spoke.
 2.Hari ini saya sedang berdiskusi berkelompok dengan Hans.
 3.Hari ini saya memiliki banyak kendala.
+
 
 30/5 
 Daily Scrum
 Hans liu winarta:
 1. Semalam saya mengutak atik index.jade
 2. Hari ini saya mencari versi" windows sebelumnya
+3. Saya ada kendala di grunt server - hasilnya cannot get /
+
+Fransisca:
+1.
+2.
+3.
+
+Yosep Segono:
+1.
+2.
+3.
+
+Irwan taniwan
+1.
+2.
+3.
+
+31/5 
+Daily Scrum
+Hans liu winarta:
+1. Semalam saya mencari bahan versi windowns 
+2. Hari ini saya mencoba untuk menyuruh sisca untuk attach file yang da di rangkum ke trello.
 3. Saya ada kendala di grunt server - hasilnya cannot get /
 
 Fransisca:
