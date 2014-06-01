@@ -186,9 +186,9 @@ Irwan Taniwan:
 1/6 
 Daily Scrum
 Yosep Segono:
-1
-2.
-3.
+1.Semalam saya mengutak-atik bespoke
+.2Hari ini saya masih belajar mengenai bespoke.
+3.Saya memiliki kendala tidak dapat menjalankan yo bespoke.
 
 Fransisca:
 1.
