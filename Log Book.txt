@@ -182,3 +182,25 @@ Irwan Taniwan:
 1.
 2.
 3.
+
+1/6 
+Daily Scrum
+Yosep Segono:
+1
+2.
+3.
+
+Fransisca:
+1.
+2.
+3.
+
+Hans liu winarta:
+1. Semalam saya mencoba untuk menyuruh sisca untuk attach file yang da di rangkum ke trello.
+2. Hari ini saya sama seperti semalam
+3. Saya ada kendala di grunt server - hasilnya cannot get /
+
+Irwan Taniwan:
+1.
+2.
+3.
