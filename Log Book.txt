@@ -179,7 +179,7 @@ Hans liu winarta:
 3. Saya ada kendala di grunt server - hasilnya cannot get /
 
 Irwan Taniwan:
-1.
+1. 
 2.
 3.
 
@@ -187,7 +187,7 @@ Irwan Taniwan:
 Daily Scrum
 Yosep Segono:
 1.Semalam saya mengutak-atik bespoke
-.2Hari ini saya masih belajar mengenai bespoke.
+2.Hari ini saya masih belajar mengenai bespoke.
 3.Saya memiliki kendala tidak dapat menjalankan yo bespoke.
 
 Fransisca:
@@ -201,6 +201,6 @@ Hans liu winarta:
 3. Saya ada kendala di grunt server - hasilnya cannot get /
 
 Irwan Taniwan:
-1.
-2.
-3.
+1. Semalam saya belum mengerjakan sesuatu.
+2. Hari ini Saya Mencari bahan tentang windows.
+3. 
