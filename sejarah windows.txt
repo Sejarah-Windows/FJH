@@ -1,6 +1,6 @@
 Pada tahun 1983, Microsoft mengumumkan pengembangan sebuah antarmuka grafis untuk sistem operasi buatannya, MS-DOS yang telah dibuat untuk sistem IBM PC dan kompatibelnya semenjak tahun 1981
 
-Daftar isi  [sembunyikan] 
+Daftar isi 
 1 Awal-awal Versi Windows
 1.1 Windows 1.0
 1.2 Windows 2.x
@@ -32,25 +32,31 @@ Daftar isi  [sembunyikan]
 18.4 Pergerakan versi Microsoft berbasis Windows NT
 19 Sejarah Windows dalam garis waktu (timeline)
 20 Referensi
-Awal-awal Versi Windows[sunting | sunting sumber]
-Windows 1.0[sunting | sunting sumber]
+
+Awal-awal Versi Windows
+
+Windows 1.0
+
 Versi pertama Microsoft Windows, yang disebut dengan Windows 1.0, dirilis pada tanggal 20 November 1985. Versi ini memiliki banyak kekurangan dalam beberapa fungsionalitas, sehingga kurang populer di pasaran. Pada awalnya Windows versi 1.0 ini hendak dinamakan dengan Interface Manager, akan tetapi Rowland Hanson, kepala bagian pemasaran di Microsoft Corporation, meyakinkan para petinggi Microsoft bahwa nama "Windows" akan lebih "memikat" konsumen. Windows 1.0 bukanlah sebuah sistem operasi yang lengkap, tapi hanya memperluas kemampuan MS-DOS dengan tambahan antarmuka grafis. Selain itu, Windows 1.0 juga memiliki masalah dan kelemahan yang sama yang dimiliki oleh MS-DOS.
 
 Lebih jauh lagi, Apple yang menuntut Microsoft membuat Microsoft membatasi kemampuannya. Sebagai contoh, jendela-jendela di dalam Windows 1.0 hanya dapat ditampilkan di layar secara "tile" saja, sehingga jendela tersebut tidak dapat saling menimpa satu sama lainnya. Selain itu, tidak ada semacam tempat yang digunakan untuk menyimpan berkas sebelum dihapus (Recycle Bin), karena memang Apple berkeyakinan bahwa mereka memiliki hak terhadap paradigma tersebut. Microsoft pun kemudian membuang limitasi tersebut dari Windows dengan menandatangani perjanjian lisensi dengan Apple.
 
-Windows 2.x[sunting | sunting sumber]
+Windows 2.x
+
 Windows versi 2 pun muncul kemudian pada tanggal 9 Desember 1987, dan menjadi sedikit lebih populer dibandingkan dengan pendahulunya. Sebagian besar populeritasnya didapat karena kedekatannya dengan aplikasi grafis buatan Microsoft, Microsoft Excel for Windows dan Microsoft Word for Windows. Aplikasi-aplikasi Windows dapat dijalankan dari MS-DOS, untuk kemudian memasuki Windows untuk melakukan operasinya, dan akan keluar dengan sendirinya saat aplikasi tersebut ditutup.
 
 Microsoft Windows akhirnya memperoleh peningkatan signifikan saat Aldus PageMaker muncul dalam versi untuk Windows, yang sebelumnya hanya dapat berjalan di atas Macintosh. Beberapa ahli sejarahwan komputer mencatat ini sebagai kemunculan sebuah aplikasi yang laku secara signifikan selain buatan Microsoft sebagai awal kesuksesan Microsoft Windows.
 
 Windows versi 2.0x menggunakan model memori modus real, yang hanya mampu mengakses memori hingga 1 megabita saja. Dalam konfigurasi seperti itu, Windows dapat menjalankan aplikasi multitasking lainnya, semacam DESQview, yang berjalan dalam modus terproteksi yang ditawarkan oleh Resi Kiswanto Intel 80286.
 
-Windows 2.1x[sunting | sunting sumber]
+Windows 2.1x
+
 Selanjutnya, dua versi yang baru dirilis, yakni Windows/286 2.1 dan Windows/386 2.1. Seperti halnya versi Windows sebelumnya, Windows/286 menggunakan model memori modus real, tapi merupakan versi yang pertama yang mendukung High Memory Area (HMA). Windows/386 2.1 bahkan memiliki kernel yang berjalan dalam modus terproteksi dengan emulasi Expanded Memory Specification (EMS) standar Lotus-Intel-Microsoft (LIM), pendahulu spesifikasi Extended Memory Specification (XMS) yang kemudian pada akhirnya mengubah topologi komputasi di dalam IBM PC. Semua aplikasi Windows dan berbasis DOS saat itu memang berjalan dalam modus real, yang berjalan di atas kernel modus terproteksi dengan menggunakan modus Virtual 8086, yang merupakan fitur baru yang dimiliki oleh Intel 80386.
 
 Versi 2.03 dan kemudian versi 3.0 mendapatkan tuntutan dari Apple karena memang versi 2.1 ini memiliki modus penampilan jendela secara cascade (bertumpuk), selain beberapa fitur sistem operasi Apple Macintosh yang "ditiru" oleh Windows, utamanya adalah masalah tampilan/look and feel. Hakim William Schwarzer akhirnya membatalkan semua 189 tuntutan tersebut, kecuali 9 tuntutan yang diajukan oleh Apple terhadap Microsoft pada tanggal 5 Januari [[1989''
 
-Kesuksesan dengan Windows 3.0[sunting | sunting sumber]
+Kesuksesan dengan Windows 3.0
+
 Microsoft Windows akhirnya mencapai kesuksesan yang sangat signifikan saat menginjak versi 3.0 yang dirilis pada tahun 1990. Selain menawarkan peningkatan kemampuan terhadap aplikasi Windows, Windows 3.0 juga mampu mengizinkan pengguna untuk menjalankan beberapa aplikasi MS-DOS secara serentak (multitasking), karena memang pada versi ini telah diperkenalkan memori virtual. Versi ini pulalah yang menjadikan IBM PC dan kompatibelnya penantang serius terhadap Apple Macintosh. Hal ini disebabkan dari peningkatan performa pemrosesan grafik pada waktu itu (dengan adanya kartu grafis Video Graphics Array (VGA)), dan juga modus terproteksi/modus 386 Enhanced yang mengizinkan aplikasi Windows untuk memakai memori lebih banyak dengan cara yang lebih mudah dibandingkan dengan apa yang ditawarkan oleh MS-DOS.
 
 Windows 3.0 dapat berjalan di dalam tiga modus, yakni modus real, modus standar, dan modus 386 Enhanced, dan kompatibel dengan prosesor-prosesor keluarga Intel dari Intel 8086/8088, 80286, hingga 80386. Windows 3.0 akan mencoba untuk mendeteksi modus mana yang akan digunakan, meski pengguna dapat memaksa agar Windows bekerja dalam modus tertentu saja dengan menggunakan switch-switch tertentu saat menjalankannya
@@ -66,7 +72,8 @@ Windows 3.0 juga hadir dalam versi "multimedia", yang disebut dengan Windows 3.0
 
 Fitur-fitur yang disebutkan di atas dan dukungan pasar perangkat lunak aplikasi yang semakin berkembang menjadikan Windows 3.0 sangat sukses di pasaran. Tercatat, dalam dua tahun sebelum dirilisnya versi Windows 3.1, Windows 3.0 terjual sebanyak 10 juta salinan. Akhirnya, Windows 3.0 pun menjadi sumber utama pemasukan Microsoft, dan membuat Microsoft melakukan revisi terhadap beberapa rencana awalnya.
 
-Beralih sementara ke OS/2[sunting | sunting sumber]
+Beralih sementara ke OS/2
+
 Selama pertengahan hingga akhir 1980an, Microsoft dan IBM bekerja sama dalam mengembangkan sebuah sistem operasi penerus DOS, yang disebut sebagai IBM OS/2. OS/2 dapat menggunakan semua kemampuan yang ditawarkan oleh mikroprosesor Intel 80286 dan mampu mengakses memori hingga 16 Megabyte. OS/2 1.0 dirilis pada tahun 1987, yang memiliki fitur swapping dan multitasking, selain tentunya mengizinkan aplikasi MS-DOS untuk berjalan di atasnya.
 
 OS/2 versi 1.0 hanyalah sebuah sistem operasi yang berbasis modus teks/command line saja. OS/2 versi 1.1 yang dirilis pada tahun 1988 menawarkan antarmuka grafis, yang disebut dengan Presentation Manager (PM). Presentation Manager ini menggunakan sistem koordinat yang sama dengan koordinat Cartesius, berbeda dengan sistem operasi Windows dan beberapa sistem GUI lainnya. Penggunaan sistem koordinat tersebut menyebabkan titik x,y 0,0 pada OS/2 diletakkan pada pojok kiri bawah layar, sementara pada Windows, peletakannya pada pojok kiri atas. OS/2 versi 1.2, yang dirilis pada tahun 1989, memperkenalkan sebuah sistem berkas baru, yang disebut dengan High Performance File System (HPFS), yang ditujukan untuk menggantikan sistem berkas File Allocation Table (FAT).
@@ -82,19 +89,18 @@ Pada saat itu, memang tidak jelas siapa yang menjadi pemenang dalam perlombaan y
 Munculnya dualisme: Windows 3.1 turun ke pasar rumahan dan Windows NT turun ke pasar korporat[sunting | sunting sumber]
 
 
-Logo yang digunakan oleh Microsoft Windows dari 1990 hingga 2000, 2003, 2005
-Windows 3.1[sunting | sunting sumber]
+Windows 3.1
 
-
-Tampilan ruangan kerja Windows 3.x
 Sebagai respons dari dirilisnya IBM OS/2 versi 2.0 ke pasaran, Microsoft mengembangkan Windows 3.1, yang menawarkan beberapa peningkatan minor terhadap Windows 3.0 (seperti halnya kemampuan untuk menampilkan font TrueType Fonts, yang dikembangkan secara bersama-sama dengan Apple), dan juga terdapat di dalamnya banyak sekali perbaikan terhadap bug dan dukungan terhadap multimedia. Versi 3.1 juga menghilangkan dukungan untuk modus real, sehingga hanya berjalan pada modus terproteksi yang hanya dimiliki oleh mikroprosesor Intel 80286 atau yang lebih tinggi lagi. Microsoft pun pada akhirnya merilis Windows 3.11, yang merupakan versi Windows 3.1 yang mencakup semua tambalan dan perbaikan yang dirilis setelah Windows 3.1 diluncurkan pada tahun 1992.
 
-Windows for Workgroups[sunting | sunting sumber]
+Windows for Workgroups
+
 Kira-kira pada waktu yang sama, Microsoft merilis Microsoft Windows for Workgroups, yang tersedia baik sebagai tambahan untuk Windows 3.1 dan sebagai sebuah versi yang tercakup di dalamnya lingkungan dasar Windows dan tambahan kemampuan jaringan di dalam sebuah paket. Windows for Workgroups mencakup driver jaringan komputer dan stack protokol yang lebih baik, dan juga mendukung jaringan secara peer-to-peer. Salah satu download opsional untuk Windows for Workgroups adalah stack protokol TCP/IP dengan nama kode "Wolverine", yang mengizinkan akses ke Internet melalui jaringan korporat. Windows for Workgroups dirilis dalam dua versi, Windows for Workgroups 3.1 dan Windows for Workgroups 3.11. Tidak seperti versi-versi Windows sebelumnya, Windows for Workgroups 3.11 hanya berjalan di dalam modus 386 Enhanced, dan membutuhkan setidaknya mesin dengan prosesor Intel 80386SX.
 
 Semua versi tersebut terus menerus meningkatkan laju penjualan Windows versi 3.x. Meskipun Windows 3.1x masih memiliki banyak kekurangan, yang sebelumnya telah dikoreksi oleh OS/2, seperti nama berkas yang panjang (melebihi 11 karakter, dalam format 8.3), desktop, atau proteksi sistem terhadap kelakuan aplikasi yang tidak diinginkan, Microsoft secara cepat mengambil alih pasar GUI di pangsa pasar desktop untuk IBM PC dan kompatibelnya. Windows API pun menjadi standar de-facto untuk perangkat lunak konsumen.
 
-Windows NT[sunting | sunting sumber]
+Windows NT
+
 Selama waktu itu, Microsoft terus melanjutkan pengembangan sistem operasi yang barunya, yang disebut dengan Windows NT. Arsitek utama dari Windows NT adalah Dave Cutler, yang merupakan salah satu dari pemimpin arsitek sistem operasi VMS di perusahaan Digital Equipment Corporation (DEC), yang kemudian dibeli oleh Compaq yang sekarang bagian dari Hewlett-Packard. Microsoft merekrut Cutler pada tahun 1988 untuk membuat sebuah versi OS/2 yang bersifat portabel, tapi akhirnya Cutler malahan membuat sistem operasi baru.
 
 Sebelum pindah ke Microsoft, Cutler sebenarnya sedang membuat sebuah sistem operasi penerus VMS di DEC, yang disebut dengan Mica. Dan pada saat petinggi DEC menggagalkan proyek tersebut, ia keluar dari DEC dan membawa banyak pekerja ahli bersamanya ke Microsoft. DEC memiliki keyakinan bahwa Cutler membawa kode Mica untuk digunakan oleh Microsoft dan menuntutnya. Akhirnya, Microsoft pun kalah dan pada akhirnya disuruh membayar 150 juta dolar Amerika dan memiliki kesepakatan untuk mendukung chip CPU baru buaan DEC, DEC Alpha, yang kala itu tercatat sebagai sebuah chip tercepat, agar dapat berjalan di dalam Windows NT.
@@ -111,7 +117,7 @@ Salah satu peningkatan terbesar dari Windows NT adalah Application Programming I
 
 Windows NT merupakan sistem operasi Windows pertama yang dibuat dengan menggunakan kernel hibrida, setelah pada versi-versi sebelumnya hanya menggunakan kernel monolithic saja.
 
-Windows 95[sunting | sunting sumber]
+Windows 95
 
 
 Tampilan layar Microsoft Windows 95.
@@ -136,10 +142,8 @@ Windows 95 OSR2, OSR2.1 dan OSR2.5 tidaklah dirilis untuk publik, akan tetapi ha
 
 Selain fitur yang terkandung di dalam Windows 95, Microsoft juga memperkenalkan Microsoft Plus! for Windows 95 yang mencakup beberapa fitur tambahan yang tidak dimiliki oleh Windows 95.
 
-Windows NT 4.0[sunting | sunting sumber]
+Windows NT 4.0
 
-
-Tampilan layar Windows NT 4.0 Server.
 Microsoft merilis Windows NT 4.0, sebagai penerus Windows NT 3.x yang sukses mengancam dominasi Novell Netware dan UNIX di pasar korporat. Windows NT 4.0 ini pada awalnya dikembangkan sebagai sebuah bagian dari usaha untuk memperkenalkan Windows NT kepada pasar workstation. NT 4.0 memiliki antarmuka yang sama dengan Windows 95, tetapi menggunakan kernel yang sama dengan Windows NT, sehingga lebih stabil. Memang, ada sebuah patch tambahan yang tersedia untuk Windows NT 3.51 yang mampu membuat NT 3.51 agar mirip seperti NT 4.0, tapi sangat tidak stabil dan memiliki banyak bug. Antarmuka pengguna tersebut pada awalnya memang dikembangkan di atas Windows NT, tapi karena Windows 95 dirilis terlebih dahulu sebelum NT 4.0, maka orang cenderung berpikir "Windows NT 4.0 adalah jiplakan dari Windows 95."
 
 Windows NT 4.0 datang dalam empat versi:
@@ -148,23 +152,17 @@ Windows NT 4.0 Workstation
 Windows NT 4.0 Server
 Windows NT 4.0 Server, Enterprise Edition (yang mencakup dukungan terhadap clustering dan SMP hingga 8-way)
 Windows NT 4.0 Terminal Server
-Windows 98[sunting | sunting sumber]
 
+Windows 98
 
-Tampilan layar Windows 98.
 Pada 25 Juni 1998, Microsoft merilis sebuah sistem operasi Windows baru, yang dikenal sebagai Windows 98. Windows 98 dianggap sebagai revisi minor terhadap Windows 95, tapi secara umum dilihat jauh lebih stabil dan dapat diandalkan dibandingkan dengan pendahulunya, Windows 95. Windows 98 mencakup banyak driver perangkat keras baru dan dukungan sistem berkas FAT32 yang lebih baik yang mengizinkan partisi untuk memiliki kapasitas lebih besar dari 2 gigabyte, sebuah batasan yang terdapat di dalam Windows 95. Dukungan USB di dalam Windows 98 pun juga jauh lebih baik dibandingkan dengan pendahulunya.
 
 Windows 98 mengundang kontroversi saat Microsoft memasukkan penjelajah web Microsoft Internet Explorer ke dalam sistem operasi dan tidak dapat dicabut, sehingga menjadikan Windows Explorer dan GUI Windows mampu menampilkan direktori seolah-olah halaman web. Hal ini membuka kasus baru, yang disebut sebagai Amerika Serikat versus Microsoft, yang menanyakan mengapa Microsoft repot-repot menjaga dominasinya di dalam sistem operasi komputer pribadi untuk berkompetisi dengan para pesaingnya seperti Netscape dan IBM dengan cara yang tidak jujur.
 
 Pada tahun 1999, Microsoft merilis Windows 98 Second Edition, sebuah rilis yang menawarkan banyak peningkatan dibandingkan versi sebelumnya. Internet Connection Sharing, yang merupakan sebuah bentuk dari Network Address Translation, yang mengizinkan beberapa mesin di dalam sebuah jaringan lokal agar dapat menggunakan satu buah jalur koneksi Internet bersama-sama pun diperkenalkan pada versi ini. Banyak masalah minor di dalam Windows yang lama telah dikoreksi, yang menjadikan Windows 98 menurut banyak orang sebagai sebuah versi Windows 9x yang paling stabil di antara semua versi Windows 9x lainnya.
 
-Windows 2000[sunting | sunting sumber]
+Windows 2000
 
-
-Logo yang digunakan oleh Microsoft Windows selama tahun 2000
-
-
-Tampilan desktop Windows 2000
 Microsoft merilis Windows 2000 pada 17 Februari 2000, sebuah versi yang sebelumnya dikenal dengan sebutan Windows NT 5.0 atau "NT 5.0". Versi Windows 2000 ditujukan untuk dua pangsa pasar, yakni pangsa pasar workstation dan juga pangsa pasar server.
 
 Di antara fitur-fitur Windows 2000 yang paling signifikan adalah Active Directory, sebuah model jaringan pengganti model jaringan NT domain, yang menggunakan teknologi yang merupakan standar industri, seperti Domain Name System (DNS), Lightweight Directory Access Protocol (LDAP), dan Kerberos untuk menghubungkan antara sebuah mesin ke mesin lainnya. Windows Terminal Services juga, yang pada Windows NT 4.0 hanya terdapat di dalam satu produk saja, pada Windows 2000 terdapat dalam semua versi server. Fitur-fitur baru yang diadopsi dari Windows 98 juga ditanamkan di dalamnya, seperti Device Manager yang telah ditingkatkan (dengan menggunakan Microsoft Management Console), Windows Media Player, dan DirectX 6.1 (yang memungkinkan sistem operasi berbasis kernel Windows NT untuk menjalankan game). Windows 2000 juga merupakan versi Windows berbasis kernel NT terakhir yang tidak mengharuskan penggunanya untuk melakukan aktivasi terhadapnya.
@@ -179,23 +177,18 @@ Windows 2000 Advanced Server
 Windows 2000 Datacenter Server
 Windows 2000 Advanced Server Limited Edition
 Windows 2000 Datacenter Server Limited Edition
-Windows Me[sunting | sunting sumber]
 
+Windows Me
 
-Tampilan Windows Millennium Edition screenshot
-
-
-Logo Windows Me
 Pada bulan September 2000, Microsoft memperkenalkan Windows Millennium Edition (dikenal juga dengan sebutan Windows Me atau Windows ME). Versi ini memperbarui Windows 98 dengan dukungan multimedia dan Internet yang lebih baik. Versi ini juga memasukkan fitur "System Restore," yang mengizinkan para penggunanya untuk mengembalikan keadaan sistem ke sebuah titik yang dikenal baik-baik saja, pada saat sistem operasi mengalami kegagalan. System Restore menjadi fitur yang masih dipertahankan pada Windows XP. Versi ini juga memperkenalkan Windows Movie Maker versi pertama.
 
 Windows Me dibuat dalam waktu yang singkat, kira-kira hanya satu tahun, yang ditujukan hanya untuk mengisi kekosongan rilis antara Windows 98 dan Windows XP sebagai sistem operasi untuk kelas rumahan. Fitur-fitur yang terdapat di dalam Windows Me (seperti Internet Explorer 5.5, Windows Media Player 7.0, dan Microsoft DirectX 7.1) bahkan bisa diperoleh secara gratis dari situs Windows Update, kecuali System Restore. Hasilnya, Windows Me pun tidak dianggap sebagai sebuah sistem operasi yang unik di antara saudara-saudaranya dari keluarga Windows 9x, Windows 95 dan Windows 98. Windows Me juga dikritik karena munculnya masalah kestabilan, dan juga dukungan terhadap MS-DOS yang berjalan di dalam modus real. Orang-orang bahkan menyebut Windows Me sebagai Windows Mistake Edition.
 
 Windows Me merupakan sistem operasi terakhir yang dibuat berdasarkan kernel monolithic Windows 9x dan MS-DOS. Versi ini pun menjadi versi terakhir sistem operasi Windows yang tidak memiliki Windows Product Activation (WPA).
 
-Windows XP: menyatukan kedua jajaran produk[sunting | sunting sumber]
+Windows XP: menyatukan kedua jajaran produk
 
-
-Logo Microsoft Windows yang didesain ulang oleh Microsoft saat merilis Windows XP, yang digunakan hingga 4 Desember 2006
+Logo Microsoft Windows didesain ulang oleh Microsoft saat merilis Windows XP, yang digunakan hingga 4 Desember 2006
 
 
 Tampilan Windows XP menampilkan folder Sample Pictures, Sample Music, dan Control Panel, dengan tema Luna dan desktop Bliss.
@@ -220,10 +213,9 @@ Windows XP Starter Edition, yang ditujukan untuk para pengguna komputer di beber
 Windows XP Professional x64 Edition, yang dirilis pada 25 April 2005 untuk sistem-sistem rumahan dan workstation yang menggunakan prosesor 64-bit yang berbasiskan set instruksi x86-64 (AMD64 atau Intel EM64T).
 Windows XP 64-bit Edition, merupakan sebuah versi Windows XP yang ditujukan untuk jajaran prosesor Intel Itanium, yang mempertahankan kompatibilitas dengan aplikasi 32-bit dengan menggunakan emulator perangkat lunak. Versi ini sama saja dengan Windows XP Professional, dari segi fitur-fiturnya. Produk ini dihentikan pada bulan September 2005 saat vendor terakhir workstation berbasis prosesor Itanium menghentikan produk-produknya sebagai "workstation", karena memang mereka cenderung memfokuskan Itanium sebagai basis komputer server.
 Windows XP 64-bit Edition 2003, dibuat berbasiskan basis kode Windows NT 5.2 (sama seperti Windows Server 2003).
-Windows Server 2003[sunting | sunting sumber]
 
+Windows Server 2003
 
-Desktop dan menu Start Windows Server 2003.
 Pada tanggal 24 April 2003, Microsoft meluncurkan Windows Server 2003, sebuah pembaruan untuk sistem operasi Windows 2000 Server, yang menawarkan banyak fitur-fitur keamanan yang baru, pemandu "Manage Your Server wizard" yang menyederhanakan peranan sebuah mesin yang menjalankannya, dan juga peningkatan kinerja. Windows Server 2003 menggunakan kernel Windows NT versi 5.2.
 
 Di dalam Windows Server 2003, beberapa layanan yang tidak terlalu dibutuhkan di dalam lingkungan server dinonaktifkan secara default, terutama "Windows Audio" dan "Themes" demi alasan kestabilan; Agar dapat menggunakan suara dan tampilan yang sama dengan Windows XP, pengguna harus mengaktifkannya secara manual, melalui snap-in Microsoft Management Console Services.msc Selain itu, akselerasi perangkat keras untuk kartu grafis juga dimatikan; lagi-lagi pengguna harus mengaktifkannya secara manual, tentu saja jika device driver yang digunakan "bisa dipercayai".
@@ -243,9 +235,9 @@ Windows Fundamentals for Legacy PCs sebagai platform thin client[sunting | sunti
 Tampilan desktop Windows Fundamentals for Legacy PCs
 Pada bulan Juli 2006, Microsoft merilis sebuah versi Windows XP Service Pack 2, yang ditujukan untuk pasar thin-client, yang disebut sebagai Windows Fundamentals for Legacy PCs (WinFLP). WinFLP hanya tersedia bagi para pelanggan Microsoft Software Assurance. Tujuan dibuatnya WinFLP adalah untuk memberikan pilihan upgrade kepada para pelanggannya yang masih menggunakan Windows 95, Windows 98, Windows Me, dan Windows NT Workstation. Sebagian besar aplikasi pengguna dijalankan di atas mesin jarak jauh dengan menggunakan Terminal Services atau Citrix.
 
-Windows Vista[sunting | sunting sumber]
-Setelah meraih kesukesan besar dengan Windows XP, Microsoft tidak lantas berhenti begitu saja mengembangkan Windows. Versi terbaru dari Windows, disebut dengan Windows Vista, dirilis pada tanggal 30 November 2006 [1] bagi kalangan bisnis sementara untuk kalangan pengguna rumahan dirilis pada tanggal 30 Januari 2007. Windows Vista memang dicanangkan agar memiliki keamanan yang lebih tangguh dibandingkan dengan versi-versi sebelumnya, dengan memperkenalkan sebuah modus pengguna yang terbatas, yang disebut sebagai User Account Control (UAC), untuk menggantikan filosofi "administrator-by-default" yang diberlakukan pada Windows XP. Windows Vista juga memperkenalkan fitur grafik yang jauh lebih "memikat", yang disebut dengan Windows Aero GUI, aplikasi yang baru (seperti halnya Windows Calendar, Windows DVD Maker dan beberapa game baru termasuk Chess Titans, Mahjong, dan Purble Place). Selain itu, Windows Vista juga menawarkan versi Microsoft Internet Explorer yang lebih aman, serta Windows Media Player versi baru (versi 11).
+Windows Vista
 
+Setelah meraih kesukesan besar dengan Windows XP, Microsoft tidak lantas berhenti begitu saja mengembangkan Windows. Versi terbaru dari Windows, disebut dengan Windows Vista, dirilis pada tanggal 30 November 2006 [1] bagi kalangan bisnis sementara untuk kalangan pengguna rumahan dirilis pada tanggal 30 Januari 2007. Windows Vista memang dicanangkan agar memiliki keamanan yang lebih tangguh dibandingkan dengan versi-versi sebelumnya, dengan memperkenalkan sebuah modus pengguna yang terbatas, yang disebut sebagai User Account Control (UAC), untuk menggantikan filosofi "administrator-by-default" yang diberlakukan pada Windows XP. Windows Vista juga memperkenalkan fitur grafik yang jauh lebih "memikat", yang disebut dengan Windows Aero GUI, aplikasi yang baru (seperti halnya Windows Calendar, Windows DVD Maker dan beberapa game baru termasuk Chess Titans, Mahjong, dan Purble Place). Selain itu, Windows Vista juga menawarkan versi Microsoft Internet Explorer yang lebih aman, serta Windows Media Player versi baru (versi 11).
 
 
 Windows Vista, menampilkan antarmuka grafis Aero-nya yang memikat, Welcome screen dan menu Start.
@@ -259,17 +251,20 @@ Windows Vista Home Premium
 Windows Vista Business
 Windows Vista Enterprise
 Windows Vista Ultimate
-Windows Home Server[sunting | sunting sumber]
+
+Windows Home Server
 
 
 Windows Home Server Console
+
 Windows Home Server (sebelumnya memiliki nama kode Q singkatan dari Quattro) merupakan sebuah produk server yang diturunkan dari Windows Server 2003, yang didesain khusus untuk digunakan oleh para konsumen dari pengguna rumahan. Sistem operasi ini diperkenalkan pada tanggal 7 Januari 2007 oleh Bill Gates. Windows Home Server dapat dikonfigurasikan dan dipantau dengan menggunakan program console yang dapat diinstalasikan pada sebuah PC klien. Windows ini memiliki fitur Media Sharing, backup terhadap drive lokal dan drive jarak jauh, dan duplikasi berkas.
 
-Windows Server 2008[sunting | sunting sumber]
+Windows Server 2008
+
 Windows Server 2008, adalah sebuah versi baru Windows Server, yang dijadwalkan untuk dirilis pada tanggal 27 Februari 2008. Pada saat pengembangannya, Windows Server memiliki nama kode "Windows Server Codenamed Longhorn." Windows Server 2008 dibangun di atas beberapa keunggulan teknologi dan keamanan yang pada awalnya diperkenalkan dengan Windows Vista, dan ditujukan agar bisa lebih modular secara signifikan, ketimbang pendahulunya, Windows Server 2003.
 
-Windows 7[sunting | sunting sumber]
-Artikel utama untuk bagian ini adalah: Windows 7
+Windows 7
+
 Rilis selanjutnya setelah Windows Vista adalah Windows 7, yang sebelumnya dikenal dengan sebutan Blackcomb dan Vienna. Saat pertama kali dirilis, Windows ini memiliki kernel NT versi 6.1 build 7600, yaitu perbaikan dari Windows Vista dimana saat rilis pertama memiliki kernel NT 6.0 build 6000. Windows 7 yang dirilis pada tanggal 22 Oktober 2009 ini memiliki keamanan dan fitur yang baru, diantaranya adalah: Jump List, Taskbar yang membuka program dengan tampilan kecil, Windows Media Player 12, Internet Explorer 8, dan lain-lain. Beberapa fitur yang unik adalah Sidebar yang berganti nama menjadi Gadget dan bebas ditaruh kemana-mana pada desktop (tidak seperti Sidebar yang hanya bisa diletakkan di tempat tertentu). Fitur itu membuat Windows 7 menjadi menarik. Spesifikasi Windows 7 lebih ringan dan harganya juga lebih murah dari pada Windows Vista.
 
 Sama seperti Windows Vista, Windows 7 juga tersedia dalam 6 edisi yaitu:
@@ -280,8 +275,9 @@ Windows 7 Home Premium
 Windows 7 Professional
 Windows 7 Ultimate
 Windows 7 Enterprise
-Windows 8[sunting | sunting sumber]
-Artikel utama untuk bagian ini adalah: Windows 8
+
+Windows 8
+
 Pengembangan Windows 8 dimulai sebelum Windows 7 diluncurkan pada tahun 2009. Tanggal 13 September 2011, build 8102 (Windows 8 Developer Preview) dirilis ke publik. Build ini terbuka penuh untuk pertama kalinya dan dilengkapi Start Screen baru, antarmuka pengguna Metro dan sejumlah sampel aplikasi buatan para karyawan magang di Microsoft. Pada tanggal 29 Februari 2012, Microsoft meluncurkan Windows 8 Consumer Preview, versi beta dari Windows 8, build 8250. Untuk pertama kalinya sejak Windows 95, tombol Start tidak lagi muncul di taskbar, meski layar Start-nya masih harus dibuka dengan mengklik sudut kiri bawah layar dan tombol Start di kotak Charm. Pada tanggal 1 Agustus 2012, Windows 8 (build 9200) dirilis dengan nomor build 6.2.9200.16384. Microsoft mengadakan acara peluncuran pada 25 Oktober 2012 dan meluncurkan Windows 8 untuk publik keesokan harinya.
 
 Fitur:
@@ -316,9 +312,7 @@ Windows 8 Enterprise menyediakan semua fitur di Windows 8 Pro (kecuali kemampuan
 Windows RT
 Windows RT hanya akan tersedia terpasang di perangkat berbasis ARM seperti tablet KP. Windows RT akan terpaket dengan versi yang teroptimalkan untuk sentuh dari versi desktop Microsoft Office 2013 Home and Student (Microsoft Office RT 2013) berisi Word, Excel, PowerPoint, dan OneNote, dan mendukung kemampuan enkripsi perangkat. Beberapa fitur kantoran seperti Group Policy dan dukungan domain tidak didukung.
 
-Windows 8.1[sunting | sunting sumber]
-Artikel utama untuk bagian ini adalah: Windows 8.1
-
+Windows 8.1
 
 Layar Mulai Windows 8.1 RTM
 Rilis selanjutnya setelah Windows 8 adalah Windows 8.1, yang sebelumnya dikenal dengan sebutan Blue. Tanggal 26 Juni 2013, build 9431 (Windows 8.1 Free Preview) dirilis ke publik. Build ini terbuka penuh untuk pertama kalinya dan dilengkapi dengan tombol Mulai baru, booting langsung ke desktop, layar kunci yang disempurnakan dan sejumlah aplikasi Metro yang baru. Pada tanggal 27 Agustus 2013, Windows 8.1 (build 9600) dirilis dengan nomor build 6.3.9600.16384. Microsoft mengadakan acara peluncuran pada 17 Oktober 2013 dan meluncurkan Windows 8.1 untuk publik keesokan harinya.
@@ -346,13 +340,14 @@ Windows 8.1
 Windows 8.1 Pro
 Windows 8.1 Enterprise
 Windows RT 8.1
-Sejarah sistem-sistem operasi Microsoft[sunting | sunting sumber]
-Pergerakan versi MS-DOS[sunting | sunting sumber]
+
+Sejarah sistem-sistem operasi Microsoft
+Pergerakan versi MS-DOS
 MS-DOS dan PC-DOS
 Windows 95 (MS-DOS 7.0)
 Windows 95 OEM Service Release 2.x, Windows 98 (MS-DOS 7.1)
 Windows Millennium Edition (MS-DOS 8.0)
-Pergerakan versi Windows kelas rumahan[sunting | sunting sumber]
+Pergerakan versi Windows kelas rumahan
 Windows 1.0
 Windows 2.0
 Windows 2.1 (alias Windows/286 dan Windows/386)
@@ -360,12 +355,14 @@ Windows 3.0, Windows 3.1, Windows 3.1 for Workgroups, Windows 3.11, Windows 3.11
 Windows 95 (Windows 4.0)
 Windows 98 (Windows 4.1)
 Windows Millennium Edition (Windows 4.9)
-Pergerakan versi Microsoft/IBM OS/2[sunting | sunting sumber]
+
+Pergerakan versi Microsoft/IBM OS/2
 OS/2 1.0
 OS/2 1.1
 OS/2 1.2
 OS/2 1.3
-Pergerakan versi Microsoft berbasis Windows NT[sunting | sunting sumber]
+
+Pergerakan versi Microsoft berbasis Windows NT
 Windows NT 3.1
 Windows NT 3.5
 Windows NT 3.51
