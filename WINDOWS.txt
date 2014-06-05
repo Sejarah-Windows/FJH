@@ -1,0 +1,260 @@
+http://firmansanctuary.wordpress.com/kelebihan-dan-kekurangan-windows-xpvista7/
+WINDOWS XP
+
+Kelebihan:
+1.Windows XP relatif hemat resource ketika booting, sehingga lebih stabil dan cepat ketika melakukan booting;
+2.Sudah banyak aplikasi yang dapat mendukung kinerja Windows XP secara maksimal;
+3.Dengan tools yang kompleks namun relatif ringan dan mudah untuk dipahami pengguna sehingga nyaman dan bersahabat serta tidak rumit untuk digunakan;
+4.Pada Windows XP Plug and Play yang bekerja otomatis dan dukungan driver-driver-nya yang competible dengan hardware supliers sehingga mudah untuk mengenali perangkat hardware tambahan yang terkoneksi;
+5.Windows XP lebih stabil dalam kecepatan kinerjanya ketika menjalankan beberapa aplikasi, dikarenakan tidak ada file system untuk aplikasi bawaannya yang rakus resource dan memory ketika dijalankan dan relatif cepat untuk men-decode file-file yang diolah secara berbarengan dengan aplikasi tambahan yang cukup besar untuk mengambil memory CPU.
+6.GUI yang familiar.
+7. Dukungan driver yang lebih banyak.
+8.Banyak aplikasi berbasis MS Windows lebih mudah untuk menginstal aplikasi pada MS Windows dibandingkan pada Linux, yang terkadang harus di-configure terlebih dahulu dan Banyak gratisan GPL dan Freeware ditawarkan untuk  Windows
+.
+
+Kelemahan:
+1.Sistem keamanan yang kurang baik, tidak heran banyak virus dan Hecker yang gampang sekali menyerang pengguna windows XP dan Proteksi security Windows XP ketika Melakukan browsing diinternet sangat rawan, karena Windows XP ketika menginformasikan Virus Aktif baik itu yang sering menyusup seperti virus dan worm dengan melalui Security Centre tidak memberitahukan penyebabnya hanya sekedar mendeteksi untuk dikonfirmasikan terhadap pengguna, sehingga sipengguna harus menambah aplikasi utillity tambahan;
+2.Resiko kehilangan data sangat besar dibanding Vista, dikarenakan sistem security centre nya tidak secara otomatis mendeteksi input-output yang tidak dikenal (unknow);
+3.Dalam Remote Administration Windows XP, Network Securitiy-nya sangat lambat untuk membaca file-file crack yang bercampur dengan file system sehingga saat melakukan Akses Remote sangat rawan dari virus dan penyusup;
+4.Tampilan Visual Windows XP tidak terdapat Aero (Aplikasi bawaan untuk tambahan tampilan visual ) sehingga tidak memiliki tampilan 3D;
+5.Terlalu banyak system-crash dibanding pada Windows Vist;
+6.Windows XP tidak dapat menampilkan preview semua file system yang dibawanya;
+7.Sharing data di area jaringan tidak dapat dilakukan dengan cepat, dikarenakan Firewall-nya terlalu lama untuk menginformasikan lewat security centre terhadap server;
+8.Windows XP tidak dapat mendeteksi suatu type jaringan untuk dipilih kemudian diaktifkan, ketika terdapat type jaringan dalam satu ruang dan waktu yang bersamaan seperti LAN dan WLAN;
+9.Windows XP ketika ingin merestore file-file sistem harus senantiasa diinstal ulang.
+
+WINDOWS VISTA
+
+Kelebihan:
+Security
+1.Windows Vista secara otomatis dapat mengaktifkan Firewall terintegrasinya sehingga ketika layanan jaringan berfungsi, sistem tidak dapat diakses dari luar;
+2.Proteksi security Windows Vista ketika Melakukan browsing diinternet lebih aman, karena Windows Vista menggunakan Konsep SDL (Secure Development Lifecyle) yang menginformasi Virus Aktif baik itu yang sering menyusup seperti virus dan worm tidak melalui Security Centre melainkan lewat Windows Monitor dengan jalur interface yang lebih aman, sehingga penyebabnya pun terdeteksi;
+3.Resiko kehilangan data lebih kecil karena chace mode yang lebih baik untuk removable strorage ( seperti pada flash disk ) membuat data tersimpan aman;
+4.Dapat mengenkripsi partisi dan drive lain serta dapat dikunci dengan Multi Factor Authen Tification dengan menggunakan TPM Module ( PIN ) dan UFD;
+5.Pada saat instalasi, pengguna harus menyimpan Password Hint. Tanpa ini windows tidak berjalan;
+6.Dalam Remote Administration Windows Vista dilengkapi Digital Signature sehingga saat melakukan Akses Remote sangat aman.
+
+Stabilitas
+1.Windows Vista dapat menampilkan preview setiap type file;
+2.Windows Vista lebih cepat dalam pencarian data walau dalam struktur susunan yang kompleks dengan Aplikasi pencarian Cepat. (aplikasi yang dikembangkan oleh apple thn 2005 yang disebut spotlight);
+3.Vista dapat membaca media dengan menggunakan sistem file exFAT;
+4.Vista dapat membaca SD Card dengan tekhnologi SD ADMA ( Advanced DMA );
+5.Sharing data di area jaringan dapat dilakukan dengan cepat;
+6.Vista dapat meakukan transfer data dari hardisk sampai 25MB/Second;
+7.Vista sangat cepat dalam proses menampilkan File Visual;
+8.Vista sangat cepat dalam proses extarct file dari ZIP ataupun WINRAR;
+9.Vista dapat mendeteksi suatu type jaringan untuk dipilih kemudian diaktifkan;
+10.Dapat melakukan emulator dari FAT 64 ke FAT 32;
+11.Windows Vista tersedia SRT (Starup Repair Tool) sehingga dengan SRT dapat merestore file-file sistem tanpa harus instal ulang.
+
+Keistimewaan:
+1.Secara visual Windows Vista lebih unggul ketimbang OS lain dengan diperkaya tampilan 3D, Air Bruss, dll.
+2.Tools yang ditampilkan kaya dengan icon.
+3.Windows Vista lebih bergengsi dengan tampilan yang sesuai dengan life syle psikologis kehidupan jaman sekarang (Funky – Trendy – Gaul).
+
+kelemahan:
+1.Pemakai dibuat bingung. Sejak awal, pemakai mengeluh tentang banyaknya versi Vista yang dijual. Siapa yang membutuhkan semua varian ini? Yang dibutuhkan hanyalah satu versi sederhana (Home) dan satu versi yang memiliki semua fitur (Pro). Kebingungan ini tampaknya terjadi karena tidak ada karyawan Microsoft yang mengerti strategi pemasaran.
+2.Ukuran source code. Terlalu besar, sehingga menyita banyak ruang memori PC pemakai.
+3.Kinerja Lambat. Hal ini dikarenakan terlalu besarnya ukuran Source Code
+4. Komponen – komponen yang hilang. WinFS, filesystem yang dijanjikan dan salah satu pilar utama Vista tidak datang dengan Vista. Pengembangan filesystem ini dimulai di tahun 1991, dan hingga kini masih belum terselesaikan. Mengapa?
+5. Pemborosan baterai laptop. Hal ini seharusnya diperbaiki dengan source code terpisah dan hybrid hard disk (HHD). Tetapi, saat ini pemakai masih harus menggunakan SSD yang sangat mahal.
+6. HHD. Beberapa pengguna masih sangat kesal ketika diberi tahu oleh industri HD bahwa keuntungan generasi baru hard disk (HD) akan “membuat semua pemakai pindah ke Vista.” Hal ini diumumkan dua tahun yang lalu, dan hingga kini masih belum ada kelanjutannya. Tebakan kurang lebih adalahproduk ini tidak akan bekerja dengan baik, dan masih belum yang dapat menyelesaikan masalah ini.
+7. Stiker Vista Capable palsu. Kampanye “Windows Vista Capable” Microsoft adalah sebuah kegagalan marketing yang besar. Banyak komputer dijual dengan stiker “Windows Vista Capable” yang ternyata tidak mampu mengoperasikan Vista.
+8. Tampilan tidak begitu membanggakan. Hal ini di karenakan karena hanya ada sedikit perubahan tampilan sehingga tidak nampak “wah” untuk seukuran New Produk dari sebuah perusahaan besar seperti Microsoft
+9. Driver yang minim. Cukup mengherankan bahwa semua driver Windows yang ada di XP tidak kompatibel dengan Vista. Apa yang terjadi?
+10. Tidak ada saran yang konsisten untuk pemakai, dan Microsoft tidak turun tangan. Beberapa orang mengatakan bahwa anda sebaiknya membeli komputer baru dengan Vista dan tidak melakukan upgrade dari XP, ada yang mengatakan upgrade boleh dilakukan. Microsoft seharusnya membuat sebuah situs khusus yang dapat menguji komputer dari internet dan menyarankan pemakai apakah mereka sebaiknya membeli komputer baru, atau melakukan upgrade.
+11. Pemasaran yang tanggung. Tidak seperti peluncuran Windows versi sebelumnya, Microsoft tidak     banyak memasarkan Vista. Walaupun ada beberapa poster dan iklan TV untuk Vista, pemasaran Vista       tidak dapat dibandingkan dengan peluncuran beberapa versi sebelumnya, di mana mereka berhasil mendapatkan perhatian orang di seluruh dunia.
+12. XP mania. Semua orang cinta XP, dan ingin mempertahankan OS ini. Hal ini membuat Vista tampak lebih buruk lagi. Terlebih lagi, banyak sekali laporan yang mengatakan bahwa pemakai kembali menggunakan XP setelah mencoba Vista.
+13. Kinerja secara Keseluruhan. Anda tidak seharusnya mengeluarkan sebuah OS baru yang dikembangkan selama lebih dari empat tahun dengan kinerja yang lebih buruk dari OS sebelumnya. Kinerja seharusnya merupakan prioritas teratas.
+
+WINDOWS 7
+
+1. Dapatkan akses lebih cepat ke semua program yang anda gunakan
+2. Gunakan banyak program, dengan hanya sedikit menunggu
+3. Kompatibilitas yang lebih baik
+4. Berbagi file dan printer diantara beberapa PC
+5. Tetap terhibur dengan mudah
+6. Mudah untuk membuat dan berbagi film
+7. Menjaga PC anda agar lebih terlindungi dengan hanya sedikit gangguan
+8. Sentuh dan tekan pada titik dan klik
+9. Mendukung lebih banyak TV, film, video, dan musik dengan banyak cara
+10. Mengelola perangkat menjadi lebih mudah
+11. Multi-task menjadi lebih mudah
+12. Berkomunikasi dan berbagi foto, e-mail, dan program-program IM secara gratis
+13. Menjelajahi web dengan lebih mudah dan aman
+14. Mencari file dan program dengan seketika
+15. Membuka program yang sering digunakan hanya dengan satu atau dua klik
+16. Navigasi jendela yang dibuka dengan cepat
+17. Mudah berbagi file, foto, dan musik di antara beberapa PC di rumah
+18. Cetak ke Printer dari PC mana saja yang ada di dalam rumah
+19. Mengatur banyak file, dokumen, dan foto dengan mudah
+20. Koneksi ke jaringan tanpa kabel yang tersedia hanya dalam tiga klik
+21. Personalisasi desktop Anda dengan tema, foto, dan gadget
+22. Menjalankan banyak program sekaligus dengan performa yang lebih baik pada PC 64-bit
+23. Membantu menjaga data pribadi dan aman
+24. Menjalankan berbagai program produktivitas Windows XP
+
+Kelemahan:
+1.Beberapa aplikasi belum bisa beroperasi di Windows 7;
+2.Bug pada Windows Player 12;
+3.Ada hardware yang bisa langsung dikenali di Vista, tapi tidak di Windows 7;
+4.Susah memaksa software yang sebelumnya bisa dipaksakan diinstall di Vista, juga dipasang di Windows 7;
+
+
+http://sistemoperasikomp.blogspot.com/2014/01/kelebihan-dan-kekurangan-windows-8.html
+Windows 8
+
+KELEBIHAN/ KEUNGGULAN WINDOWS 8
+- Tampilan Windows 8 Lebih Dinamis.
+Seperti tablet dan smartphone, komputer yang menggunakan sistem operasi windows 8 juga dilengkapi dengan fitur notifikasi dan juga informasi saat ini, mengenai akun di Internet. Contohnya kotak masuk email.  Selain itu pengguna windows 8 secara otomatis akan terhubung dengan situs penyedia data miliknya Windows, Skydrive.
+- Windows 8 mempunyai tampilan yang segar untuk dipandang.
+Windows 8 mempunyai desain menu yang tersusun rapi dengan desain metro. Untuk mengakses jejaring sosial dapat langsung dilakukan di awal layar.
+- Proses Booting yang cepat.
+Booting di windows 8 lebih cepat dari windows sebelumnya. Untuk booting windows 8 hanya memerlukan waktu 8 detik. Di windows 8 tidak terdapat lagi flahing layar BIOS.
+- Windows 8 Lebih Aman.
+Pada saat booting di windows 8 dilengkapi dengan secure boot. Secure boot itu bekerja dengan BIOS berbasis UEFI. Ketika booting Secure boot itu berfungsi untuk melindungi PC dari malware.
+- Sistem Pencarian Data Windows 8 Lebih Universal.
+Jika anda mencari data di windows 8, data lebih mudah ditemukan. Untuk mencarinya hanya tinggal mengetik nama data ditampilkan diawal maka langsung muncul pilihan-pilihan data terkit.
+- Ketersediaan dan Kemudahan Aplikasi Pendukung.
+Untuk mendapatkan aplikasi pendukung di windows 8 ada banyak pilihan dan kemudahan yang disediakan.
+- Windows 8 Cocok untuk Semua Software.
+Semua software yang dapat dijalankan di windows 7 , juga dapat di jalankan di windows 8 sehingga pengguna tidak perlu upgrade PC. Menurut Microsoft, RAM 1 GB dan Processor Intel Atom sudah cukup untuk menjalankan Windows 8.
+- Windows 8 lebih dioptimalisasi untuk layar sentuh.
+Pada windows sebelumnya yaitu windows 7 memang sudah support untuk layar sentuh, namun desain dan kemudahan pengoperasian tidak dioptimalkan. Lain halnya dengan windows 8, yang desainnya sudah dioptimalkan untuk layar sentuh jika kita menggunakan di komputer PC kita akan merasa seperti menggunakan Windows Phone.
+- Spesifikasi hardware yang rendah  dan dapat dijalankan di tablet.
+Sistem Operasi Windows 8 mendukung perangkat yang menggunakan infrastruktur chip ARM. Saat ini tablet yang beredar kebanyakan memakai chip ARM, sehingga dapat memprluas jangkauan windows 8 di area tablet.
+- Tersedianya Windows Store.
+Windows Store adalah toko aplikasi windows 8. Di windows store tersedia berbagai macam aplikasi yang telah dioptimalkan untuk Windows 8.
+- Mendukung Near Field Communications (NFC ).
+NFC adalah sebuah teknologi yang digunakan untuk transaksi keuangan digital. Fitur ini kemungkinan besar juga disertakan pada tablet yang memakai Windows 8
+- Browser Internet Explorer 10.
+Di windows 8, tersedia browser Internet Explorer 10 yang lebih baik dan membawa perubahan besar dari versi Internet Explorer yang dulu. Browser Internet Explorer 10 ini sangat ramah digunakan baik digunakan di PC maupun di Tablet.
+
+
+KEKURANGAN/ KELEMAHAN WINDOWS 8
+- Tidak terdapat Tombol Start dan Close X.
+Ditampilan muka windows 8 tidak ditemukan tombol start dan Close X. Inilah yang membingungkan para pengguna untuk mengawali pekerjaan dan menutup kekerjaan. Walaupun ada sistem pencarian data, namun keberadaan tombol start merupakan hal yang perlu dan penting agar pengguna lebih mudah untuk mengoperasikan suatu sistem operasi.
+Jika ingin menutup sebuah aplikasi di windows 8, anda harus mengarahkan panah mouse ke atas aplikasi. Jika sudah muncul tombol tangan, anda  harus mendrag dan program baru akan tertutup.
+- Terdapat Banyak Aplikasi Atau File yang Tersembunyi.
+Mungkin hal inilah yang membuat para pengguna windows 8 bingung, sebab ketika beroperasi hanya terdapat dua data/ aplikasi yang dapat terbuka secara bersamaan. Untuk data yang lainnya tersembunyi. Dan untuk membukanya anda harus menggunakan fitur pencarian universal .
+
+
+http://gghrasyid.blogspot.com/2012/04/sejarah-windows-me-kelebihan-dan.html
+WINDOWS ME
+
+Kelebihan Windows ME
+Penambahan fitur antarmuka dari Windows 2000, seperti fitur untuk menonaktifkan 'Drag and Drop' pada Tasbar dan Start Menu, Update pada multimedia control panel dan dukungan untuk icon high color 16-bit pada area notifikasi. Dukungan untuk hardware seperti peningkatan pada power management, USB, USB Printer dan FireWire. Telah ditambahkan software multimedia serta peningkatan fitur seperti Windows Media Player 7, Windows DVD Player, Windows Movie Maker, Image Preview dan Games. Dalam segi Networking, Microsoft menambahan fitur Net Crawling, New TCP/IP Stack dan Universal Plug and Play. Windows ME Jjuga menambahkan fitur untuk sistem seperti System Configuration Utility, System Monitor, SCANDISK, dan Automatic Updates.
+
+Kekurangan Windows ME
+Adapun kekurangan Windows ME adalah penghapusan  fitur “Real Mode DOS” dengan tujuan agar perfoma booting pada Windows ME menjadi semakin cepat. Beberapa fitur seperti Automated Instalation, Active Directory Client services, System Policy Editor, Personal Web Server dan ASP tidak didukung oleh Windows ME. Fitur-fitur lain yang dihapus dari Windows ME diantaranya adalah Microsoft Fax, QuickView dan DriveSpace.
+
+
+http://an-ninzy.blogspot.com/2012/10/kelebihan-dan-kekurangan-windows-server.html
+WINDOWS SERVER 2003
+
+Kelebihan Windows Server 2003:
+1. Pengoperasiannya Mudah
+Cara menginstall windows server 2003 tidaklah terlalu sulit ,bahkan mungkin dibandingkan dengan dengan windows NT yang sangat rumit.
+2. Cantik Memukau
+Hal yang pertama yang kita lihat pada OS Windows 2003 standard edition adalah tampilan server yang sangat indah dan mirip windows xp versi pro maupun home edition.
+3. Fungsionalitas dan Skalabilitas
+Ketakjuban yang kedua terjadi saat OS Windows 2003 ini di restart. Proses rebooting ini terjadi sangat cepat, seakan kita tidak sedang menggunakan OS dengan title server, seakan bekerja pada sebuah mesin desktop ringan, hardware pun terlihat tidak terbebani.
+4. Sangat cocok untuk organisasi/perusahaan besar
+Didesain untuk kebutuhan harian perusahaan dan merupakan pengganti dari Windows NT4 Server/ Windows 2000 Server. Windows Server 2003 Enterprise Edition : didisain untuk kebutuhan konsumen skala besar, dan merupakan pengganti dari Windows NT4 Server Enterprise Edition/ Windows 2000 Advanced Server. Windows Server 2003 DataCenter Edition : didisain untuk kebutuhan bisnis yang sangat penting dimana skalabilit.
+5. Penggunaan DHCP memudahkan pengurusan sesuatu rangkaian komputer di dalam suatu organisasi yang besar. Konfigurasi DHCP Windows Server 2003 adalah mudah.
+
+Kekurangan Windows Server 2003:
+1. Windows Server 2003, yang terasa tidak memadai di tengah kemajuan Web 2.0
+2. Kadang jika kita tidak teliti dalam mengginstall,error selalu ditemui
+3. Tidak semua Produk aplikasi ( bahkan buatan Microsoft sendiri ) bisa berjalan diatasnya
+4. Persyaratan hadware yang sangat tinggi
+5. Kemanan yang kurang tangguh
+6. Makin banyak type file yang dibuka dengan berbagai macam aplikasi dan telah terinstall aplikasi sesuai dengan kebutuhan sesuai
+
+
+http://10108602.blog.unikom.ac.id/windows-server-2008.2rx
+Windows SERVER 2008
+
+Kelebihan Windows Server 2008 adalah: 
+1. Windows Server 2008 dapat beroperasi tanpa tampilan grafis atau graphical user interface (GUI) dengan adanya teknologi powershell. 
+2. Pengguna dapat memilih fungsi-fungsi yang dibutuhkannya saja atau menambah fungsi lainnya jika membutuhkan sewaktu-waktu tanpa melakukan instalasi ulang. 
+3. Kemampuan virtualisasi bahkan embedded (menyatu) dengan Windows Server 2008. 
+4. Windows Server 2008 mampu mengatur besar bandwidth yang dapat dipakai setiap aplikasi maupun komputer yag terhubung ke jaringan. 
+5. Windows Server 2008 juga sanggup mengontrol keamanan jaringan dengan fitur Network Access Protection. 
+6. Server juga dapat mengatur setiap akses identitas ke jaringan agar aman dan praktis dengan adanya fitur read only domain controller. 
+7. Melalui powershell, administrator tetap dapat memantau komputer di jaringan dari jarak jauh. 
+8. Lebih aman dalam mengendalikan laju informasi. 
+9. Peningkatan Kapasitas Server untuk melayani lebih Simultan Koneksinnya. 
+10. Driver disk yang fault toleran yang mendukung disk mirroring dan disk stripping dengan parity (RAID 1 dan RAID 5). 
+11. Bebas dari Kode 16 Bit milik MS-Dos,mendukung operasi 32 bit dan semua Fitur yang ditawarkan oleh Microprosesor 32 bit seperti dapat mengamati memori hingga 4 Gb dan Terproteksi. 
+12. Di Desain agar kompatibel dengan Sistem Operasi terdahulu seperti MS-Dos,IBM OS/2. 
+13. Peningkatan kemampuan layanan server TCP/IP seperti DHCP,WNS dan DNS. 
+14. Tool untuk mengintegrasikan Netware dan memonitoring Jaringan. 
+15. Model keamanan berbasis Domain penuh. 
+16. Terdapat Layanan untuk Macintosh. 
+17. Bisa Membooting jarak jauh untuk client. 
+18. Terintegrasi Paket Back Office. 
+19. Terdapat Network Client Administrator. 
+20. Fitur pengendalian yang lebih baik (more control). Yaitu fitur yang dapat membuat perusahaan memegang kontrol yang lebih terhadap server mereka. 
+
+Kekurangan Windows Server 2008: 
+1. Browser yang digunakan sebagai sistem dasar pada sistem perangkat bantu administrasi banyak menggunakan Javascript dan Active X, ternyata mengakibatkan proses sangat lambat. Hal yang sama dengan PC yang menggunakan processor 300 MHz AMD dan 128 MB SDRAM serta 100 MHz Bus tidak bisa diharapkan bekerja dengan lancar seperti yang diharapkan. 
+2. Pengubahan konfigurasi yang mendasar jarang dapat dilakukan dengan berhasil. Hal ini berlaku untuk nilai default, Format file Log yang bersifat propritary dan juga pilihan default-indeks, yang kesemuanya secara standar selalu harus disimpan pada drive C. Administrator dalam hal ini harus melakukan pekerjaan yang tak perlu, hingga sistem keseluruhan berjalan sebagaimana mestinya, sebelum dapat melakukan perubahan. 
+3. Dokumentasi online, yang praktis tidak diperlukan, ketika sistem keamanan tertinggi Active X telah dipilih menyebabkan strategi keamanan yang kurang baik pada IIS. 
+4. Dibutuhkan pengubahan konfigurasi yang sangat kompleks untuk ISS Server, yang dapat dikatakan sangat sulit dan merepotkan sekali. Dari pihak administrator berpendapat kegiatan perubahan file Registry adalah pekerjaan yang relatif berat untuk sistem yang menggunakan Windows NT sebagai sistem operasinya.
+
+http://techno-dreams.blogspot.com/2012/09/kelebihan-dan-kelemahan-sistem-operasi.html
+WINDOWS 2000 NT server
+
+Kelebihan :
+1.  Peningkatan Kapasitas Server untuk melayani lebih Simultan Koneksinnya.
+2.  Driver disk yang fault toleran yang mendukung disk mirroring dan disk stripping dengan parity (RAID 1 dan RAID 5)
+3.  Bebas dari Kode 16 Bit milik MS-Dos,mendukung operasi 32 bit dan semua Fitur yang ditawarkan oleh Microprosesor   32 bit seperti dapat mengamati memori hingga 4 Gb dan Terproteksi.
+4.  Di Desain agar kompatibel dengan Sistem Operasi terdahulu seperti MS-Dos,IBM OS/2.
+5.  Peningkatan kemampuan layanan server TCP/IP seperti DHCP,WNS dan DNS.
+6.  Tool untuk mengintegrasikan Netware dan memonitoring Jaringan.
+7.  Model keamanan berbasis Domain penuh.
+8.  Terdapat Layanan untuk Macintosh.
+9.  Bisa Membooting jarak jauh untuk client.
+10. Terdapat Network Client Administrator.
+
+Kekurangan :
+1. Browser yang digunakan sebagai sistem dasar pada sistem perangkat bantu administrasi banyak menggunakan Javascript dan Active X, ternyata mengakibatkan proses sangat lambat. Hal yang sama dengan PC yang menggunakan processor 300 MHz AMD dan 128 MB SDRAM serta 100 MHz Bus tidak bisa diharapkan bekerja dengan lancar seperti yang diharapkan.
+2. Pengubahan konfigurasi yang mendasar jarang dapat dilakukan dengan berhasil. Hal ini berlaku untuk nilai default, Format file Log yang bersifat propritary dan juga pilihan default-indeks, yang kesemuanya secara standar selalu harus disimpan pada drive C. Administrator dalam hal ini harus melakukan pekerjaan yang tak perlu, hingga sistem keseluruhan berjalan sebagaimana mestinya, sebelum dapat melakukan perubahan.
+3. Dokumentasi online, yang praktis tidak diperlukan, ketika sistem keamanan tertinggi Active X telah dipilih menyebabkan strategi keamanan yang kurang baik pada IIS.
+4. Dari kasus tersebut diatas, maka dibutuhkan pengubahan konfigurasi yang sangat kompleks untuk ISS Server, yang dapat dikatakan sangat sulit dan merepotkan sekali. Dari pihak administrator berpendapat kegiatan perubahan file Registry adalah pekerjaan yang relatif berat untuk sistem yang menggunakan Windows NT sebagai sistem operasinya.
+5. Kelemahan dalam fitur Multimedia
+
+http://teknologi.kompasiana.com/terapan/2012/11/09/kekurangan-dan-kelebihan-windows-98-506834.html
+WINDOWS 98
+
+Kekurangan :
+* Dukungan support sudah dicabut oleh produsennya (microsoft)
+* Susah cari driver, karena produsen hardware menarik dukungan untuk win 98
+* Tidak mendukung dan tidak bisa diinstall di perangkat terbaru (bila dipaksakan akan blue screen)
+* Tidak ada versi 64bit
+* Ringkih, mudah crash
+* Kemampuan multi tasking yang sangat buruk
+* Kemampuan multi thread yang sangat buruk
+* Penanganan device yang buruk, DMA sering konflik
+* Manajemen resource cpu yang kacau balau
+* Tidak bisa membuat file dg ukuran lebih dari 2GB
+* Tidak bisa mendeteksi memory besar (1GB masih stabil, dipaksa 2GB-hasil BlueScreen)
+* Utility sangat terbatas, apalagi tool network
+* Gampang terserang virus, gampang di hack, di crack, gampang di acak-acak
+* Terlalu beresiko melakukan transaksi perbankan dari browser win 98, karena fitur networknya minim
+* Tidak mendukung applikasi keluaran terbaru
+* Tampilan terlalu sederhana (meskipun sempat dibanggakan di era nya)
+
+Kelebihan :
+* Cocok untuk hardware lama (misalnya pentium I,II,III)
+* Ringan
+* Ukuran installer kecil, bisa diinstal dari disket
+* Bisa diinstall dari dos
+* Bisa booting ke dos
+* Cocok untuk development applikasi under dos terutama applikasi recovery
+* Cocok untuk main game tempoe doeloe
+* System (boot) mudah ditransfer ke media lain seperti cd dan disket
+* Dos protected mode (DPMI) yang sempurna, baik untuk applikasi DOS32 dan DOS16
+* Sangat cocok untuk development bagi programmer BIOS, atau programmer bahasa mesin
+
