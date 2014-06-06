@@ -306,9 +306,9 @@ Fransisca:
 3.saya ada kendala dalam push data saya ke github
 
 Hans liu winarta:
-1. 
-2. 
-3. 
+1.semalam saya ...
+2. hari ini saya akan mencoba untuk membuat tampilan index.jade kami
+3. belum ada kendala
 
 Irwan Taniwan:
 1. 
