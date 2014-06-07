@@ -328,9 +328,9 @@ Fransisca:
 3.-
 
 Hans liu winarta:
-1.
-2.
-3.
+1.semalam saya membuat tampilan index kami
+2.hari ini saya selesai membuat semua nya
+3.kendala saya penggunaan syntax dan pemanggilan nya..
 
 Irwan Taniwan:
 1. 
